@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Backend Development & Software Development**
 
-- 💬 Ask me about **C# & .NET**
+- 💬 Ask me about **.NET & C#**
 
 - 📫 How to reach me **abdallahhassan0119@gmail.com**
 
